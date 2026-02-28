@@ -1,1 +1,7 @@
-# Python-Module-01
+*This project has been created as part of the 42 curriculum by lhaydar*
+
+### Description
+
+### Instructions
+
+### Resources
